@@ -40,4 +40,4 @@ Icon
 # ========
 # project files
 #=========
-.sublime*
+*.sublime*
