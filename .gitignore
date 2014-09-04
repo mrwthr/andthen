@@ -25,5 +25,12 @@ Icon
 .Trashes
 
 
+<<<<<<< HEAD
 .sublime*
 at3.sublime-workspace
+=======
+# ========
+# project files
+#=========
+*.sublime*
+>>>>>>> 74b117412e551194020a733909e21de81074fe46
